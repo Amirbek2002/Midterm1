@@ -85,6 +85,7 @@ button{
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+    cursor: pointer;
 }
 hr{
     color: red;
@@ -92,5 +93,4 @@ hr{
 h5{
 	text-align: center;
 	color: white;
-	cursor: pointer;
 }

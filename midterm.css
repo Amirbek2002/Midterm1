@@ -24,11 +24,9 @@ nav{
 	text-decoration: none;
 	float: right;
 	padding: 10px;
-	cursor: pointer;
 
 }
-.a1:hover{
-	background-color: #483D8B;
+
 .i1{
 	width: 400px;
 	height: 300px;

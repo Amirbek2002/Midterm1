@@ -24,8 +24,11 @@ nav{
 	text-decoration: none;
 	float: right;
 	padding: 10px;
+	cursor: pointer;
 
 }
+.a1:hover{
+	background-color: #483D8B;
 .i1{
 	width: 400px;
 	height: 300px;
@@ -77,7 +80,7 @@ h3{
 	font-size: 30px;
 }
 button{
-    background-color: blue;
+    background-color: #303841;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -85,7 +88,7 @@ button{
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    cursor: pointer;
+    margin-left: 150px;
 }
 hr{
     color: red;
